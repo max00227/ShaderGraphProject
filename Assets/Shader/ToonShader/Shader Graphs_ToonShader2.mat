@@ -52,13 +52,15 @@ Material:
     m_Ints: []
     m_Floats:
     - _Blackboard: 52.3
-    - _Fresnel_Power: 12
-    - _Fresnel_Threshold: 0.23
+    - _Fresnel_Power: 2.2
+    - _Fresnel_Threshold: 0.298
+    - _OutlineMax: 0
+    - _OutlineMini: 0
     - _OutlineThickness: 11
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rim_Light_Threshold: 0.523
-    - _Shadow_Threshold: -0.23
+    - _Shadow_Threshold: -0.37
     - _Specular_Threshold: 0
     m_Colors:
     - _Color: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 0}
