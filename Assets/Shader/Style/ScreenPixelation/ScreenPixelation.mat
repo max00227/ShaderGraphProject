@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ScreenPixelation
-  m_Shader: {fileID: -6465566751694194690, guid: c1a7d940492a46d48a1bfd0192272e88, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 04e61d49a9916e3489ccc79a4ad4089c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -38,20 +38,28 @@ Material:
     m_Ints: []
     m_Floats:
     - _Boolean: 1
-    - _ColorSteps: 2
-    - _HueStep: 1
+    - _ColorSteps: 30
+    - _Depth: 0
+    - _HueStep: 4.9
     - _Intensity: 0
     - _Max: 1.293
     - _MaxBrightness: 1
-    - _MaxGrayscale: 1.085
-    - _MaxSaturation: 1.46
+    - _MaxGrayscale: 1.178
+    - _MaxSaturation: 1.89
     - _Min: 0.227
-    - _MinBrightness: 0.182
-    - _MinGrayscale: 0.116
-    - _MinSaturation: 0.136
+    - _MinBrightness: 0.085
+    - _MinGrayscale: 0.1
+    - _MinSaturation: 0
+    - _PixelPower: 10
+    - _PixelPower2: 5
+    - _PixelPowerFar: 5
+    - _PixelPowerNear: 10
+    - _QueueControl: 0
+    - _QueueOffset: 0
     - _Smoothness: 0
     m_Colors:
     - _DitherColor: {r: 0, g: 0, b: 0, a: 0}
-    - _Resolution: {r: 300, g: 300, b: 0, a: 0}
+    - _Resolution: {r: 800, g: 800, b: 0, a: 0}
+    - _Resolution2: {r: 300, g: 300, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
