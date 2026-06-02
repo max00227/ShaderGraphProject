@@ -38,7 +38,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Boolean: 1
-    - _ColorSteps: 30
+    - _ColorSteps: 500
     - _Depth: 0
     - _HueStep: 4.9
     - _Intensity: 0
