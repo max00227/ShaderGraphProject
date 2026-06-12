@@ -38,17 +38,23 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AngleOffset: 15
-    - _CellDensity: 4
-    - _Period: 3
+    - _AngleOffset: 13.87
+    - _CellDensity: 6.04
+    - _Float: 0.093
+    - _Float_1: 0.586
+    - _LightRange: 0.524
+    - _Period: 3.99
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _TimeRate: 1
-    - _ValueX: 4
+    - _TimeRate: 2
+    - _ValueX: 6.4
     m_Colors:
     - _CellDensity: {r: 4, g: 3, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 0, g: 0.9218221, b: 1, a: 0}
+    - _Color_1: {r: 0, g: 0.58446574, b: 1, a: 0}
+    - _DeepColor: {r: 0, g: 0.45070732, b: 0.735849, a: 0}
     - _Period: {r: 4, g: 10, b: 0, a: 0}
+    - _ShallowColor: {r: 0, g: 0.96078444, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &5871201539019639026

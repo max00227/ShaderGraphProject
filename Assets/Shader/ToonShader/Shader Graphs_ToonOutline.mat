@@ -77,7 +77,8 @@ Material:
     - _Surface: 0
     - _Thickness: 1.58
     - _VBMax: 1
-    - _VCMin: 0.265
+    - _VCMax: 0.677
+    - _VCMin: 0.442
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
