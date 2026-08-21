@@ -62,22 +62,22 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _CastShadows: 1
     - _Cull: 1
-    - _Dark: 0.042
+    - _Dark: 0.016
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Light: 0.068
+    - _Light: 0.064
     - _Max: 1
-    - _Min: 0.311
+    - _Min: 0.308
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rate: 8410
+    - _Rate: 1000
     - _ReceiveShadows: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _Thickness: 1.58
     - _VBMax: 1
-    - _VCMax: 0.677
+    - _VCMax: 0.602
     - _VCMin: 0.442
     - _WorkflowMode: 1
     - _ZTest: 4
