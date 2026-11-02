@@ -62,30 +62,36 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _CastShadows: 1
     - _Cull: 1
-    - _Dark: 0.016
+    - _Dark: 0.117
+    - _DarkThersold: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Light: 0.064
-    - _Max: 1
-    - _Min: 0.308
+    - _Float: 1
+    - _Float_1: 0
+    - _Light: 0.5
+    - _LightThersold: 0.466
+    - _Max: 0
+    - _Min: 0.09
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rate: 1000
+    - _Rate: 2
     - _ReceiveShadows: 1
+    - _Smooth: 0
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _Thickness: 1.58
     - _VBMax: 1
-    - _VCMax: 0.602
-    - _VCMin: 0.442
+    - _VCMax: 1
+    - _VCMin: 1
+    - _Width: 0
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
     - _Z_Offset: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 0.4528302, g: 0, b: 0, a: 0}
     - _Range: {r: 1, g: 1, b: 0, a: 0}
     - _Vector3: {r: 1, g: 1, b: 1, a: 0}
     - _VertexColorLerp: {r: 0, g: 1, b: 0, a: 0}

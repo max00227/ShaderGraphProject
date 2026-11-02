@@ -48,7 +48,7 @@ Material:
     m_Floats:
     - _Alpha: 0
     - _Float: 0.81
-    - _Fresnel_Threshold: 0.053
+    - _Fresnel_Threshold: 0.203
     - _LightThreshold: 0.999
     - _Matallic: 0
     - _QueueControl: 0
